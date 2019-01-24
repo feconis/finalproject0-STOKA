@@ -1,0 +1,5 @@
+Algoritma ve Programlama dersi 1. Dönem Final Projesi
+Oyun Maðazasý Otomasyonu STOKA
+Umut Bozdað 181601016
+
+>> Dosyayý bir klasöre çýkartýp öyle açmanýz gerekiyor eðer compiler yerine exe'den açýlýrsa Saat ve Tarih güncellenmiyor.
